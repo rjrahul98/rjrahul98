@@ -1,5 +1,4 @@
-### Hi there 👋
-![alt text](https://imgur.com/Pny0Olu)
+![alt text](https://i.imgur.com/Pny0Olu.jpg)
 <!--
 **rjrahul98/rjrahul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
