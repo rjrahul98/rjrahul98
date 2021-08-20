@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/Qr91G05.png)
+<!--![alt text](https://i.imgur.com/Qr91G05.png)-->
 <!--
 **rjrahul98/rjrahul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
